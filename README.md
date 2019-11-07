@@ -1,6 +1,8 @@
-# SmartBrain - v2
-Final project for Udemy course
+# SmartBrain - frontend
 
-1. Clone this repo
+A face recognition Full stack application It detects faces in an image.
+
+Front End Tool : Reactjs
+
 2. Run `npm install`
 3. Run `npm start`
